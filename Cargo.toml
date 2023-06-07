@@ -7,3 +7,4 @@ homepage = "https://github.com/Dhruvesh08/mecha-sdk"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+gstreamer = "0.20.6"
